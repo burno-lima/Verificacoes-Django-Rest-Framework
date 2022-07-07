@@ -1,7 +1,7 @@
 # Verificacoes-Django-Rest-Framework
 
 ```
-git clone 
+git clone  https://github.com/burno-lima/Verificacoes-Django-Rest-Framework.git
 cd Verificacoes-Django-Rest-Framework
 python -m venv .venv
 source .venv/Scripts/activate
